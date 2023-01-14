@@ -2,8 +2,7 @@
 
 To clone this skeleton and get started with a new Project use:
 ```
-$ git clone --recurse-submodules git@github.com:sherget/cpp-skeleton.git
-<YourProjectName>
+$ git clone --recurse-submodules git@github.com:sherget/cpp-skeleton.git <YourProjectName>
 $ cd <YourProjectName> && bash init.sh <YourProjectName>
 ```
 
