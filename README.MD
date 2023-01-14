@@ -1,10 +1,13 @@
 # Skeleton for a simple C++ Project with CMake and google test
 
-To clone this project use:
+To clone this skeleton and get started with a new Project use:
 ```
-git clone --recurse-submodules https://github.com/sherget/cpp-skeleton
+$ git clone --recurse-submodules git@github.com:sherget/cpp-skeleton.git
+<YourProjectName>
+$ cd <YourProjectName> && bash init.sh <YourProjectName>
 ```
 
+## Structure of the skeleton:
 ```
 CPPSkeleton/
 |-- build/
@@ -22,6 +25,7 @@ CPPSkeleton/
     `-- main.cc
 ```
 
+## Commands that might come in handy:
 Google Test suite can be found here: https://github.com/google/googletest/.
 
 To create a build execute:
