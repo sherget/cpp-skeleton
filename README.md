@@ -1,5 +1,10 @@
 # Skeleton for a simple C++ Project with CMake and google test
 
+To clone this project use:
+```
+git clone --recurse-submodules https://github.com/sherget/cpp-skeleton
+```
+
 ```
 CPPSkeleton/
 |-- build/
@@ -39,3 +44,4 @@ To compile and run tests use:
 ```
 cd build; make CPPSkeleton_test; test/CPPSkeleton_test
 ```
+
